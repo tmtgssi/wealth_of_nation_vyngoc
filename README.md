@@ -18,7 +18,7 @@ cd wealth_of_nation_vyngoc
 
 ```
 
-2. Create and Activate a New Conda Environment
+### 2. Create and Activate a New Conda Environment
 
 ```bash 
 conda create -n wealth_env python=3.13
@@ -26,19 +26,19 @@ conda activate wealth_env
 ```
 
 
-3. Install Required Libraries
+### 3. Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Run the Analysis Script (Optional)
+### 4. Run the Analysis Script (Optional)
 
 ```bash
 python main.py
 ```
 
-5. Launch the Streamlit Web App
+### 5. Launch the Streamlit Web App
 
 ```bash
 streamlit run app.py
