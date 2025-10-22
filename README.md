@@ -16,32 +16,33 @@ git clone https://github.com/eiravy/wealth_of_nation_vyngoc
 
 cd wealth_of_nation_vyngoc
 
+```
 
 2. Create and Activate a New Conda Environment
 
 ```bash 
 conda create -n wealth_env python=3.13
 conda activate wealth_env
-```bash
+```
 
 
 3. Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
-```bash
+```
 
 4. Run the Analysis Script (Optional)
 
 ```bash
 python main.py
-```bash
+```
 
 5. Launch the Streamlit Web App
 
 ```bash
 streamlit run app.py
-```bash
+```
 
 Then open the browser URL shown in your terminal to interact with the dashboard.
 
