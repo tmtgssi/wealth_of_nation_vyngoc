@@ -123,7 +123,7 @@ Deploy the Streamlit app online (e.g., via Streamlit Cloud or Hugging Face Space
 
 Le Hong Vy Ngoc
 
-Master Student, Milan University
+Master Student, Università degli Studi di Milano Statale
 
 Major: Data Science for Health and Economics
 
