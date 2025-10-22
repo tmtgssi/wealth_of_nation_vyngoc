@@ -1,0 +1,5 @@
+conda create -n wealth_env python=3.13
+conda activate wealth_env
+pip install -r .\requirements.txt
+python main.py
+streamlit run app.py

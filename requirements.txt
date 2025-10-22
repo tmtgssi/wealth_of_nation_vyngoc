@@ -1,0 +1,6 @@
+pandas==2.0.3
+numpy==1.26.2
+matplotlib==3.8.0
+seaborn==0.12.2
+wbgapi==1.1.1
+streamlit==1.29.0
